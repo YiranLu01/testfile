@@ -1,0 +1,2 @@
+fid:1
+LocMedian = 15
